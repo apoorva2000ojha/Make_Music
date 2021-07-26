@@ -1,9 +1,9 @@
-audio1 = new Audio('./sounds/bubbles.mp3')
-audio2 = new Audio('./sounds/clay.mp3')
-audio3 = new Audio('./sounds/confetti.mp3')
-audio4 = new Audio('./sounds/glimmer.mp3')
-audio5 = new Audio('./sounds/moon.mp3')
-audio6 = new Audio('./sounds/ufo.mp3')
+audio1 = new Audio('bubbles.mp3')
+audio2 = new Audio('clay.mp3')
+audio3 = new Audio('confetti.mp3')
+audio4 = new Audio('glimmer.mp3')
+audio5 = new Audio('moon.mp3')
+audio6 = new Audio('ufo.mp3')
 
 
 window.addEventListener("load", () => {
